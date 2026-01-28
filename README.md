@@ -9,7 +9,7 @@
 
 ## About project
 
-gjjkjjgkgkjkjhgkggggggggggggggggggggggggggggggggggggggggggggggggggggggggjgj
+## Used technologies
 
 ## Learning Laravel
 
